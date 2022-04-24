@@ -78,10 +78,10 @@ My name is Andriele Joras dos Santos and I'm currently a student in a technical 
 </table>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  height=100em src="https://github-readme-stats.vercel.app/api?username=RedONe06&theme=dark&show_icons=true" />
+  <img  height=120em src="https://github-readme-stats.vercel.app/api?username=RedONe06&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=100em src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedONe06&layout=compact&theme=dark&show_icons=true" />
+  <img height=120em src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedONe06&layout=compact&theme=dark&show_icons=true" />
 </a>
   </div>
 
