@@ -7,13 +7,14 @@ My name is Andriele Joras dos Santos and I'm currently a student in a technical 
 🔎 **Studying:** *AI, JavaScript, HTML, CSS*
 
 ### Contact
+<!-- Site pra os badges: https://shields.io/category/social-->
 <a href="https://www.instagram.com/ajota_06/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/andriele-joras/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:andrielejorasdossantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 ## My technologies
 
-<table>
+<table align="center">
   <tr>
     <th colspan=2>Design</th>
     <th colspan=2>Programming</th>
@@ -75,6 +76,14 @@ My name is Andriele Joras dos Santos and I'm currently a student in a technical 
     <td> Beginner | 🔴🟠⚪⚪⚪ | Pro </td>
   </tr>
 </table>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  height=180em src="https://github-readme-stats.vercel.app/api?username=RedONe06&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedONe06&layout=compact&theme=dark&show_icons=true" />
+</a>
+  </div>
 
 
 
