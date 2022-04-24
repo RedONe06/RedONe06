@@ -13,7 +13,7 @@
 <a href="mailto:andrielejorasdossantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
 
-<h2 align="center" style="padding-bottom:10px"> MY TECHNOLOGIES </h2>
+<h2 align="center"> MY TECHNOLOGIES </h2>
 
 
 <table align="center">
@@ -33,49 +33,49 @@
     <td> Beginner | 🔴🟠🟡🟢🔵 | Pro </td>
     <!--Programming-->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠🟡⚪⚪ | Pro </td>
+    <td> Beginner | 🔴🟠🟡⚫⚫ | Pro </td>
   </tr>
   <tr>
     <!--Design-->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠🟡🟢⚪ | Pro </td>
+    <td> Beginner | 🔴🟠🟡🟢⚫ | Pro </td>
     <!--Programming-->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠🟡⚪⚪ | Pro </td>
+    <td> Beginner | 🔴🟠🟡⚫⚫ | Pro </td>
   </tr>
   <tr>
     <!--Design-->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠🟡🟢⚪ | Pro </td>
+    <td> Beginner | 🔴🟠🟡🟢⚫ | Pro </td>
     <!--Programming-->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠🟡⚪⚪ | Pro </td>
+    <td> Beginner | 🔴🟠🟡⚫⚫ | Pro </td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠🟡🟢⚪ | Pro </td>
+    <td> Beginner | 🔴🟠🟡🟢⚫ | Pro </td>
     <!--Programming-->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠🟡⚪⚪ | Pro </td>
+    <td> Beginner | 🔴🟠🟡⚫⚫ | Pro </td>
   </tr>
   <tr>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠🟡🟢⚪ | Pro </td>
+    <td> Beginner | 🔴🟠🟡🟢⚫ | Pro </td>
     <!--Programming-->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠⚪⚪⚪ | Pro </td>
+    <td> Beginner | 🔴🟠⚫⚫| Pro </td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠🟡⚪⚪ | Pro </td>
+    <td> Beginner | 🔴🟠🟡⚫⚫ | Pro </td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠⚪⚪⚪ | Pro</td>
+    <td> Beginner | 🔴🟠⚫⚫ | Pro</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠⚪⚪⚪ | Pro </td>
+    <td> Beginner | 🔴🟠⚫⚫⚫ | Pro </td>
   </tr>
 </table>
 <div align="center">
