@@ -1,18 +1,20 @@
-# Hi! I'm RedONe06! Welcome to my profile :)
+<h1 align="center">Hi! I'm RedONe06! Welcome to my profile :)</h2>
 
-My name is Andriele Joras dos Santos and I'm currently a student in a technical course in informatics at Ulbra - São Lucas.
-
+<p align="center">My name is Andriele Joras dos Santos and I'm currently a student in a technical course in informatics at Ulbra - São Lucas.</p>
+  
 📚 **Reading:** *Inteligência Artificial (Artificial Intelligence: A Modern Approach) - Peter Norvig, Stuart Russell*
 
 🔎 **Studying:** *AI, JavaScript, HTML, CSS*
 
-### Contact
 <!-- Site pra os badges: https://shields.io/category/social-->
+<div align="center">
 <a href="https://www.instagram.com/ajota_06/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/andriele-joras/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:andrielejorasdossantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</div>
 
-## My technologies
+<h2 align="center" style="padding-bottom:10px"> MY TECHNOLOGIES </h2>
+
 
 <table align="center">
   <tr>
