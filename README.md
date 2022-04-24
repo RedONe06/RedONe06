@@ -43,15 +43,15 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width=20px height=20px/></td>
     <td> Beginner | 🔴🟠🟡🟢⚪ | Pro </td>
     <!--Programming-->
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠⚪⚪⚪ | Pro </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=20px height=20px/></td>
+    <td> Beginner | 🔴🟠🟡⚪⚪ | Pro </td>
   </tr>
   <tr>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width=20px height=20px/></td>
     <td> Beginner | 🔴🟠🟡🟢⚪ | Pro </td>
     <!--Programming-->
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠🟡⚪⚪ | Pro </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=20px height=20px/></td>
+    <td> Beginner | 🔴🟠⚪⚪⚪ | Pro </td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width=20px height=20px/></td>
