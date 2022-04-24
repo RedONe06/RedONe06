@@ -1,6 +1,15 @@
 # Hi! I'm RedONe06! Welcome to my profile :)
 
-👩🏻 My name is Andriele Joras dos Santos and I'm currently a student in a technical course in informatics at Ulbra - São Lucas.
+My name is Andriele Joras dos Santos and I'm currently a student in a technical course in informatics at Ulbra - São Lucas.
+
+📚 **Reading:** *Inteligência Artificial (Artificial Intelligence: A Modern Approach) - Peter Norvig, Stuart Russell*
+
+🔎 **Studying:** *AI, JavaScript, HTML, CSS*
+
+### Contact
+<a href="https://www.instagram.com/ajota_06/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/andriele-joras/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:andrielejorasdossantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 ## My technologies
 
