@@ -6,6 +6,9 @@
 
 🔎 **Studying:** *AI, JavaScript, HTML, CSS*
 
+🔨 **Working on:** *Commits patterns, english practice and wireframing*
+
+🧱 **Current projects:** *Workin: gym's website, InfinityDev: my teacher's personal website*
 <!-- Site pra os badges: https://shields.io/category/social-->
 <div align="center">
 <a href="https://www.instagram.com/ajota_06/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
