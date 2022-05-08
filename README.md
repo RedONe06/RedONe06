@@ -16,7 +16,7 @@
 <a href="mailto:andrielejorasdossantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
 
-<h2 align="center"> MY TECHNOLOGIES </h2>
+<h2 align="center"> MY SKILLS </h2>
 
 
 <table align="center">
