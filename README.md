@@ -72,13 +72,13 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width=20px height=20px/></td>
     <td> Beginner | 🔴🟠🟡⚫⚫ | Pro </td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠⚫⚫⚫ | Pro</td>
+    <td> Beginner | 🔴🟠🟡⚫⚫ | Pro</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=20px height=20px/></td>
-    <td> Beginner | 🔴🟠⚫⚫⚫ | Pro </td>
+    <td> Beginner | 🔴🟠🟡⚫⚫ | Pro </td>
   </tr>
 </table>
 <div align="center">
