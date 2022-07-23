@@ -4,9 +4,9 @@
   
 📚 **Reading:** *Inteligência Artificial (Artificial Intelligence: A Modern Approach) - Peter Norvig, Stuart Russell*
 
-🔎 **Studying:** *AI, JavaScript, HTML, CSS*
+🔎 **Studying:** *Java*
 
-🔨 **Working on:** *Commits patterns, english practice and wireframing*
+🔨 **Working on:** *Commits patterns, english practice and advanced progrmming logic*
 
 🧱 **Current projects:** *Workin: gym's website, InfinityDev: my teacher's personal website*
 <!-- Site pra os badges: https://shields.io/category/social-->
