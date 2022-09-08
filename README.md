@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm RedONe06! Welcome to my profile :)</h2>
+<h1 align="center">Hi! I'm RedONe06! Welcome to my profile :)</h1>
 
 <p align="center">My name is Andriele Joras dos Santos and I'm currently a student in a technical course in informatics at Ulbra - São Lucas and a programming intern at TrindTech.</p>
   
@@ -15,6 +15,7 @@
 <a href="mailto:andrielejorasdossantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
 
+<h1 align="center"></h1>
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
