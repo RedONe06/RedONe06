@@ -18,10 +18,10 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200em src="https://github-readme-stats.vercel.app/api?username=RedONe06&theme=dark&show_icons=true" />
+  <img height=150em src="https://github-readme-stats.vercel.app/api?username=RedONe06&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedONe06&layout=compact&theme=dark&show_icons=true" />
+  <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedONe06&layout=compact&theme=dark&show_icons=true" />
 </a>
   </div>
 
