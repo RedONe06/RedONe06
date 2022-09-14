@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm RedONe06! Welcome to my profile :)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=250&color=A71515&center=true&vCenter=true&width=435&lines=Hi!+I'm+RedONe06;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <p align="center">My name is Andriele Joras dos Santos and I'm currently a student in a technical course in informatics at Ulbra - São Lucas and a programming intern at TrindTech.</p>
   
