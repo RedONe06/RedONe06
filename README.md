@@ -25,6 +25,8 @@
   <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedONe06&layout=compact&theme=dark&show_icons=true" />
 </a>
   </div>
+  
+  ![Snake animation](https://github.com/RedONe06/RedONe06/blob/output/github-contribution-grid-snake.svg)
 
 
 
