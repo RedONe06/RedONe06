@@ -2,13 +2,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=250&color=f57643&center=true&vCenter=true&width=435&lines=Hi!+I'm+RedONe06;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">My name is Andriele Joras dos Santos and I'm currently a student in a technical course in informatics at Ulbra - São Lucas and a programming intern at TrindTech.</p>
+<p align="center">My name is Andriele Joras dos Santos and I'm currently a Full Stack Software Developer at Trindtech.</p>
   
 📚 **Reading:** *Clean Code (Robert Cecil Martin)*
 
-🔎 **Studying:** *C#, Java*
+🔎 **Studying:** *C#, Java, Xamarin*
 
-🔨 **Working on:** *connecting projects to a data base*
+🔨 **Working on:** *Learning mobile development*
 
 <!-- Site pra os badges: https://shields.io/category/social-->
 <div align="center">
