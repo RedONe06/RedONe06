@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">My name is Andriele Joras dos Santos and I'm currently a Full Stack Software Developer at Trindtech.</p>
-  
-📚 **Reading:** *Clean Code (Robert Cecil Martin)*
-
-🔎 **Studying:** *C#, Java, Xamarin*
-
-🔨 **Working on:** *Learning mobile development*
 
 <!-- Site pra os badges: https://shields.io/category/social-->
 <div align="center">
